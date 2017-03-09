@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>true</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>none</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>true</FullScreen>
+            <GalleryName>pit lab info screen sldier</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>768</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>E:/x.Pit Lab/Apps/WOW Slider/templates/backgnd/chrome/</ImageTemplate>
+            <ImageTemplateName>Chrome</ImageTemplateName>
+            <ImageWidth>1024</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PageBgColor>#ffffff</PageBgColor>
+            <PlayPause>true</PlayPause>
+            <Preloader>true</Preloader>
+            <PublishFileName>C:/Users/Vlad/Desktop/info screen 3.0/PitLab info screens.html</PublishFileName>
+            <PublishIndex>PitLab info screens.html</PublishIndex>
+            <PublishPath>C:/Users/Vlad/Desktop/info screen 3.0</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>90</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#aaffff</TemplateColor>
+            <TemplateFont>Tenor Sans</TemplateFont>
+            <TemplateName>chrome</TemplateName>
+            <ThumbAlign>right</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>pitlab info screen pics/pic 1.PNG</url>
+                <title>pic 1</title>
+                <filesize>1589572</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 2.PNG</url>
+                <title>pic 2</title>
+                <filesize>16487</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 3.PNG</url>
+                <title>pic 3</title>
+                <filesize>29187</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 4.PNG</url>
+                <title>pic 4</title>
+                <filesize>910172</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 5.PNG</url>
+                <title>pic 5</title>
+                <filesize>215685</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 6.PNG</url>
+                <title>pic 6</title>
+                <filesize>897368</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 7.PNG</url>
+                <title>pic 7</title>
+                <filesize>558421</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 8.PNG</url>
+                <title>pic 8</title>
+                <filesize>1247405</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 9.PNG</url>
+                <title>pic 9</title>
+                <filesize>1565601</filesize>
+            </Image>
+            <Image>
+                <url>pitlab info screen pics/pic 10.PNG</url>
+                <title>pic 10</title>
+                <filesize>949952</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
